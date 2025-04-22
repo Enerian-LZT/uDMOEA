@@ -4,6 +4,13 @@ classdef uDMOEA < ALGORITHM
  % N --- 20 --- Population size (default)
  % N --- 100 --- Population size
 
+%--------------------------------------------------------------------------------------------------------
+% If you find this code useful in your work, please cite the following paper "Z. Luo, J. Xiong*, H. Peng*,  
+% G. Zhan, Q. Zhang, H. Wang, X. Zhou, W. Li, Y. Huang."Micro Multiobjective Evolutionary Algorithm With 
+% Piecewise Strategy for Embedded-Processor-Based Industrial Optimization," IEEE Transactions on Emerging
+% Topics in Computational Intelligence, 2024. 
+%--------------------------------------------------------------------------------------------------------
+
     methods
         function main(Algorithm,Problem)
             %% Parameter setting
