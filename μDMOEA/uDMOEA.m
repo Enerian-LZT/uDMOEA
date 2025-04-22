@@ -7,8 +7,8 @@ classdef uDMOEA < ALGORITHM
 %--------------------------------------------------------------------------------------------------------
 % If you find this code useful in your work, please cite the following paper "Z. Luo, J. Xiong*, H. Peng*,  
 % G. Zhan, Q. Zhang, H. Wang, X. Zhou, W. Li, Y. Huang."Micro Multiobjective Evolutionary Algorithm With 
-% Piecewise Strategy for Embedded-Processor-Based Industrial Optimization," IEEE Transactions on Emerging
-% Topics in Computational Intelligence, 2024. 
+% Piecewise Strategy for Embedded-Processor-Based Industrial Optimization," Genetic and Evolutionary Com-
+% putation Conference (GECCO’ 24), ACM, 2024, p. 687–690. 
 %--------------------------------------------------------------------------------------------------------
 
     methods
